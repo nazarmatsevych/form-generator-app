@@ -1,5 +1,7 @@
 # 📝 Form Generator App
 
+## [DEMO LINK](https://nazarmatsevych.github.io/form-generator-app/)
+
 ## 📌 Description
 
 This application generates forms based on a specified JSON configuration. It consists of two tabs:
